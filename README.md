@@ -6,4 +6,4 @@ Description: This simple repo utilized react lifecycle methods
 
 - React
 - methods: componentWillUnmount, componentDidMount, componentDidUpdate
-- not git
+- Git
